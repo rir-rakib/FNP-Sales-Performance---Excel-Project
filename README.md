@@ -69,7 +69,7 @@ The dashboard includes the following key features:
 ##  Author
 
 **Name:** Rakibul Islam  
-**Email:** Intermediate Excel Dashboard  
+**Email:** rir.rakibulislam@gmail.com
 **Topic:** Retail Sales Analysis    
 
 ---
